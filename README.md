@@ -1,3 +1,3 @@
 # KeyboardStore
 
-An application for keyboard store
+An application for keyboard store using javaFX
